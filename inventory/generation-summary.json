@@ -1,0 +1,192 @@
+{
+  "generated_at": "2026-05-28T19:46:00+08:00",
+  "project_count": 37,
+  "env_file_count": 21,
+  "projects": [
+    {
+      "name": "Ai_News",
+      "path": "Ai_News",
+      "doc": "projects/Ai_News.md"
+    },
+    {
+      "name": "ajoliving_web",
+      "path": "ajoliving_web",
+      "doc": "projects/ajoliving_web.md"
+    },
+    {
+      "name": "Arti",
+      "path": "Arti",
+      "doc": "projects/Arti.md"
+    },
+    {
+      "name": "ceramic-electric-furnace-backend",
+      "path": "ceramic-electric-furnace-backend",
+      "doc": "projects/ceramic-electric-furnace-backend.md"
+    },
+    {
+      "name": "ceramic-hopper-app",
+      "path": "ceramic-hopper-app",
+      "doc": "projects/ceramic-hopper-app.md"
+    },
+    {
+      "name": "ceramic-hopper-backend",
+      "path": "ceramic-hopper-backend",
+      "doc": "projects/ceramic-hopper-backend.md"
+    },
+    {
+      "name": "ceramic-workshop-app",
+      "path": "ceramic-workshop-app",
+      "doc": "projects/ceramic-workshop-app.md"
+    },
+    {
+      "name": "ceramic-workshop-backend",
+      "path": "ceramic-workshop-backend",
+      "doc": "projects/ceramic-workshop-backend.md"
+    },
+    {
+      "name": "flutter_bioreactor",
+      "path": "flutter_bioreactor",
+      "doc": "projects/flutter_bioreactor.md"
+    },
+    {
+      "name": "frp_local_public_service",
+      "path": "frp_local_public_service",
+      "doc": "projects/frp_local_public_service.md"
+    },
+    {
+      "name": "harmony-cursor-rules",
+      "path": "harmony-cursor-rules",
+      "doc": "projects/harmony-cursor-rules.md"
+    },
+    {
+      "name": "HarmonyOS_Wanderlogue",
+      "path": "HarmonyOS_Wanderlogue",
+      "doc": "projects/HarmonyOS_Wanderlogue.md"
+    },
+    {
+      "name": "hk-dashboard",
+      "path": "hk-dashboard",
+      "doc": "projects/hk-dashboard.md"
+    },
+    {
+      "name": "good_price_databoard",
+      "path": "hk/good_price_databoard",
+      "doc": "projects/hk__good_price_databoard.md"
+    },
+    {
+      "name": "hk_open_api_agent",
+      "path": "hk/hk_open_api_agent",
+      "doc": "projects/hk__hk_open_api_agent.md"
+    },
+    {
+      "name": "iboard_flutter",
+      "path": "iboard_flutter",
+      "doc": "projects/iboard_flutter.md"
+    },
+    {
+      "name": "iboard_http_service",
+      "path": "iboard_http_service",
+      "doc": "projects/iboard_http_service.md"
+    },
+    {
+      "name": "icctv-http-service",
+      "path": "icctv-http-service",
+      "doc": "projects/icctv-http-service.md"
+    },
+    {
+      "name": "icctv_orangepi_auth_service",
+      "path": "icctv_orangepi_auth_service",
+      "doc": "projects/icctv_orangepi_auth_service.md"
+    },
+    {
+      "name": "icctv_web_admin",
+      "path": "icctv_web_admin",
+      "doc": "projects/icctv_web_admin.md"
+    },
+    {
+      "name": "ilock",
+      "path": "ilock",
+      "doc": "projects/ilock.md"
+    },
+    {
+      "name": "iboard_web_admin",
+      "path": "ilock/iboard_web_admin",
+      "doc": "projects/ilock__iboard_web_admin.md"
+    },
+    {
+      "name": "ilock_http_service",
+      "path": "ilock/ilock_http_service",
+      "doc": "projects/ilock__ilock_http_service.md"
+    },
+    {
+      "name": "ILock_http_service",
+      "path": "ILock_http_service",
+      "doc": "projects/ILock_http_service.md"
+    },
+    {
+      "name": "iNtercom_http_service",
+      "path": "intercom/iNtercom_http_service",
+      "doc": "projects/intercom__iNtercom_http_service.md"
+    },
+    {
+      "name": "iNtercom_web_admin",
+      "path": "intercom/iNtercom_web_admin",
+      "doc": "projects/intercom__iNtercom_web_admin.md"
+    },
+    {
+      "name": "iNtercom_flutter_callee",
+      "path": "iNtercom_flutter_callee",
+      "doc": "projects/iNtercom_flutter_callee.md"
+    },
+    {
+      "name": "iNtercom_flutter_caller",
+      "path": "iNtercom_flutter_caller",
+      "doc": "projects/iNtercom_flutter_caller.md"
+    },
+    {
+      "name": "mcp-figma",
+      "path": "mcp-figma",
+      "doc": "projects/mcp-figma.md"
+    },
+    {
+      "name": "meter_reader_admin_web",
+      "path": "meter_reader_admin_web",
+      "doc": "projects/meter_reader_admin_web.md"
+    },
+    {
+      "name": "ismart_pos_relay",
+      "path": "pos/ismart_pos_relay",
+      "doc": "projects/pos__ismart_pos_relay.md"
+    },
+    {
+      "name": "pos_web",
+      "path": "pos/pos_web",
+      "doc": "projects/pos__pos_web.md"
+    },
+    {
+      "name": "pos_web_payment_http_service",
+      "path": "pos/pos_web_payment_http_service",
+      "doc": "projects/pos__pos_web_payment_http_service.md"
+    },
+    {
+      "name": "python_translate_tool",
+      "path": "python_translate_tool",
+      "doc": "projects/python_translate_tool.md"
+    },
+    {
+      "name": "QuickStart",
+      "path": "QuickStart",
+      "doc": "projects/QuickStart.md"
+    },
+    {
+      "name": "svavo_smart_databoard",
+      "path": "svavo_smart_databoard",
+      "doc": "projects/svavo_smart_databoard.md"
+    },
+    {
+      "name": "yls_databoard",
+      "path": "yls_databoard",
+      "doc": "projects/yls_databoard.md"
+    }
+  ]
+}
